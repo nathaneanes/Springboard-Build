@@ -172,7 +172,7 @@ projects[webform][subdir] = contrib
 projects[webform][version] = 3.20
 
 projects[webform_ab][subdir] = contrib
-projects[webform_ab][version] = 2.1
+projects[webform_ab][version] = 2.3
 
 projects[services][subdir] = contrib
 projects[services][version] = 3.7
